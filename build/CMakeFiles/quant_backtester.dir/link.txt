@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\quant_backtester.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\quant_backtester.dir/objects.a @CMakeFiles\quant_backtester.dir\objects1.rsp
-C:\MinGW\bin\c++.exe -Wl,--whole-archive CMakeFiles\quant_backtester.dir/objects.a -Wl,--no-whole-archive -o quant_backtester.exe -Wl,--out-implib,libquant_backtester.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\quant_backtester.dir\linkLibs.rsp
